@@ -7,3 +7,5 @@ https://github.com/gerryguy311/CyberProfDevelopmentCovidResources/blob/master/RE
 ## Google free books about Security and Reliability
 https://landing.google.com/sre/books/
 
+## Free courses from Elastic
+https://training.elastic.co/learn-from-home?baymax=rtp&elektra=home&storm=sub2&rogue=default
